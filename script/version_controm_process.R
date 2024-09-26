@@ -1,3 +1,5 @@
+getwd()
+
 dir.create("script")
 dir.create("maintenance")
 file.create("./script/version_controm_process.R")
@@ -18,3 +20,4 @@ file.create("./script/version_controm_process.R")
 # Create a folder
 
 # copy and paste ... ord push an existing reposototy from the commande line
+
